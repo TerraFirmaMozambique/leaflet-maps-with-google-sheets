@@ -3,7 +3,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 
 ## Live links (replace with your own)
 - Leaflet Map https://terrafirmamozambique.github.io/leaflet-maps-with-google-sheets/
-- Google Sheets template https://docs.google.com/spreadsheets/d/e/2PACX-1vRxh3prrRFKAjzNOOmf0ozRBWa8lc97wiaCHKu3f3ecvT7kytEM45OxPYA85BdaMTZveTyffXiUicHC/pub?output=csv
+- Google Sheets template https://docs.google.com/spreadsheets/d/11Yw6SoVoYQXzIo020AuHWE9q7CMqpT1sLp8uN_x74eU/edit#gid=0
 
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* http://www.datavizforall.org/leaflet/with-google-sheets/
